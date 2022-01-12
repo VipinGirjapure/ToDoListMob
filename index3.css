@@ -12,8 +12,8 @@ body{
     /* zoom: 100%; */
     align-self: center;
    flex-wrap: wrap;
-   padding: 17px 0px 86px 33px;  
-    margin: 7rem 22rem 1rem 29rem;
+   padding: 17px 0px 86px 33px;
+   margin: 2rem 3rem 1rem 6rem;
     position: relative;
     justify-content: space-evenly;
 }
@@ -274,14 +274,16 @@ box-shadow:8px 6px 15px grey;
     border-radius: 8px;
     text-align: center;
     padding: 14px 42px 13px;
+    margin: auto;
     color: orangered;
     position: absolute;
     top: 258px;
-    left: 43px;
+    left: 1%;
+    right: 1%;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: light;
-    box-shadow: 4px 4px 15px orangered;
+    box-shadow: 4px 4px 12px orangered;
 }
     }
 
